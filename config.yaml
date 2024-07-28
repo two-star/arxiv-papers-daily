@@ -21,21 +21,40 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
+# keywords:
+#     "Tracking": 
+#         filters: ["UAV tracking","SOT", "Visual Object Tracking","vision language tracking","RGB-E Tracking","RGB-T Tracking"
+#         ,"RGB-D Tracking"]
+#     "HDR":
+#         filters: ["HDR","HDR Video", "HDR Images", "Real-Time HDR","High Dynamic Range"]
+#     "Low-Level":
+#         filters: ["Low-light Image Enhancement","Image Fusion",
+#                   "Image Restoration"," Image Enhancement",
+#                   "Multi-Granularity","image retrieval","context-aware"]
+#     "Image Matching":
+#         filters: ["Image Matching", "Keypoint Matching", 
+#                   "Line Segment Detection", "Local Feature Matching"]
+#     "MutilModal":
+#         filters: ["MutilModal", "MLLM", "Multimodal Alignment", 
+#                   "Vision-and-Language", "Multimodal Fusion", "Crossmodal Retrieval","Mutil-view", "cross-view"]
+#     "Prompt":
+#         filters: ["Multi-Granularity", "LORA", "Contextual", "Prompt"]
 keywords:
-    "Tracking": 
-        filters: ["UAV tracking","SOT", "Visual Object Tracking","vision language tracking","RGB-E Tracking","RGB-T Tracking"
-        ,"RGB-D Tracking"]
-    "HDR":
-        filters: ["HDR","HDR Video", "HDR Images", "Real-Time HDR","High Dynamic Range"]
-    "Low-Level":
-        filters: ["Low-light Image Enhancement","Image Fusion",
-                  "Image Restoration"," Image Enhancement",
-                  "Multi-Granularity","image retrieval","context-aware"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "MutilModal":
-        filters: ["MutilModal", "MLLM", "Multimodal Alignment", 
-                  "Vision-and-Language", "Multimodal Fusion", "Crossmodal Retrieval","Mutil-view", "cross-view"]
-    "Prompt":
-        filters: ["Multi-Granularity", "LORA", "Contextual", "Prompt"]
+    "Fault Detection":
+        filters: ["Fault Detection", "Fault Diagnosis", "Fault Classification", 
+                  "Anomaly Detection", "Condition Monitoring", "Predictive Maintenance"]
+    "Signal Processing":
+        filters: ["Signal Processing", "Feature Extraction", "Time-Frequency Analysis", 
+                  "Fourier Transform", "Wavelet Transform", "Spectral Analysis"]
+    "Vibration Analysis":
+        filters: ["Vibration Analysis", "Vibration Monitoring", "Rotating Machinery", 
+                  "Impact Testing", "Bearing Fault Detection", "Gearbox Fault Detection"]
+    "Acoustic Signal":
+        filters: ["Acoustic Signal", "Noise Analysis", "Sound Wave Analysis", 
+                  "Acoustic Emission", "Sound Level Measurement", "Frequency Analysis"]
+    "Machine Learning":
+        filters: ["Machine Learning", "Deep Learning", "Neural Networks", 
+                  "Supervised Learning", "Unsupervised Learning", "Feature Learning"]
+    "Data Fusion":
+        filters: ["Data Fusion", "Sensor Fusion", "Multimodal Data Fusion", 
+                  "Data Integration", "Cross-Sensor Analysis", "Sensor Data Aggregation"]
